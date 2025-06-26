@@ -1,41 +1,45 @@
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
-</div>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-# [Jonatas Almeida]
+## Olá, meu nome é Jonatas Almeida!
 
-[![LinkedIn](www.linkedin.com/in/jonatas-almeida-barros)
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Ciência da Computaçâo no Universidade Federal de Rondônia(UNIR).
+- 🌱 Aprendendo mais sobre PostgreSQL, NestJS, JavaScript/TypeScript e Docker.
 
+## Minhas Skills
 
-## 👋 Olá!
+**Aplicações e dados**
 
-Atualmente estudante de Ciência da Computação pela Universidade Federal de Rondônia (UNIR) e na parte de desenvolvimento tenho principal interesse na parte de back-end, mas estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
-
-## 🚀 Habilidades Técnicas
-
-- Linguagens de Programação: 
-
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=nestjs,react)](https://skillicons.dev)
-- Dados: 
-
-    [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscodium,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
-
-    [![My Skills](https://skillicons.dev/icons?i=tailwindcss,html,css)](https://skillicons.dev)
-
-## 🏆 Projetos Destacados
-
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
+![NestJS](https://img.shields.io/badge/-React-333333?style=flat&logo=nestjs)
 
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+**Ferramentas de desenvolvimento**
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
+![VSCodium](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=vscodium)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+**Outras tecnologias**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jonatas-almeida-barros)](www.linkedin.com/in/jonatas-almeida-barros)
