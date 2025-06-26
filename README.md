@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=JonatasVi&color=006bed)
 
 ## Olá, meu nome é Jonatas Almeida!
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/JonatasVi" title="Perfil do Jonatas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasVi&theme=dracula&show_icons=true" />
 </a>
 
