@@ -3,7 +3,7 @@
 ## Olá, meu nome é Jonatas Almeida!
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computaçâo no Universidade Federal de Rondônia(UNIR).
+- 🎓 Estudando Ciência da Computaçâo na Universidade Federal de Rondônia(UNIR).
 - 🌱 Aprendendo mais sobre PostgreSQL, NestJS, JavaScript/TypeScript e Docker.
 
 ## Minhas Skills
@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasVi&theme=dracula&show_icons=true" />
 </a>
 
 
