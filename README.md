@@ -3,14 +3,14 @@
 ## Olá, meu nome é Jonatas Almeida!
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computaçâo na Universidade Federal de Rondônia(UNIR).
+- 🎓 Estudando Ciência da Computação na Universidade Federal de Rondônia(UNIR).
 - 🌱 Aprendendo mais sobre PostgreSQL, NestJS, JavaScript/TypeScript e Docker.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
