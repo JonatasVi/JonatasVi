@@ -34,11 +34,6 @@
 
 <br/>
 
-<a href="https://github.com/JonatasVi" title="Perfil do Jonatas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasVi&theme=dracula&show_icons=true" />
-</a>
-
-
 
 ## Onde me encontrar
 
